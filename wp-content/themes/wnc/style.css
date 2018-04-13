@@ -8,117 +8,117 @@ Author: Leibowitz
 /* MUSEO SANS */
 	@font-face {
 		font-family: 'Sans';
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_2_0.eot');
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_2_0.eot') format('embedded-opentype'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_2_0.woff2') format('woff2'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_2_0.woff') format('woff'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_2_0.ttf') format('truetype');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_2_0.eot');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_2_0.eot?#iefix') format('embedded-opentype'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_2_0.woff2') format('woff2'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_2_0.woff') format('woff'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_2_0.ttf') format('truetype');
 		font-weight: 100;}
 	@font-face {
 		font-family: 'Sans';
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_4_0.eot');
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_4_0.eot') format('embedded-opentype'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_4_0.woff2') format('woff2'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_4_0.woff') format('woff'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_4_0.ttf') format('truetype');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_4_0.eot');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_4_0.eot?#iefix') format('embedded-opentype'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_4_0.woff2') format('woff2'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_4_0.woff') format('woff'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_4_0.ttf') format('truetype');
 		font-weight: 100;
 		font-style: italic;}
 	@font-face {
 		font-family: 'Sans';
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_0_0.eot');
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_0_0.eot') format('embedded-opentype'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_0_0.woff2') format('woff2'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_0_0.woff') format('woff'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_0_0.ttf') format('truetype');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_0_0.eot');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_0_0.eot?#iefix') format('embedded-opentype'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_0_0.woff2') format('woff2'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_0_0.woff') format('woff'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_0_0.ttf') format('truetype');
 		font-weight: normal;}
 	@font-face {
 		font-family: 'Sans';
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_3_0.eot');
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_3_0.eot') format('embedded-opentype'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_3_0.woff2') format('woff2'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_3_0.woff') format('woff'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_3_0.ttf') format('truetype');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_3_0.eot');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_3_0.eot?#iefix') format('embedded-opentype'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_3_0.woff2') format('woff2'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_3_0.woff') format('woff'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_3_0.ttf') format('truetype');
 		font-weight: normal;
 		font-style: italic;}
 	@font-face {
 		font-family: 'Sans';
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_5_0.eot');
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_5_0.eot') format('embedded-opentype'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_5_0.woff2') format('woff2'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_5_0.woff') format('woff'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_5_0.ttf') format('truetype');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_5_0.eot');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_5_0.eot?#iefix') format('embedded-opentype'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_5_0.woff2') format('woff2'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_5_0.woff') format('woff'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_5_0.ttf') format('truetype');
 		font-weight: bold;
 		font-style: normal;}
 	@font-face {
 		font-family: 'Sans';
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_1_0.eot');
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_1_0.eot') format('embedded-opentype'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_1_0.woff2') format('woff2'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_1_0.woff') format('woff'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_1_0.ttf') format('truetype');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_1_0.eot');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_1_0.eot?#iefix') format('embedded-opentype'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_1_0.woff2') format('woff2'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_1_0.woff') format('woff'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_1_0.ttf') format('truetype');
 		font-weight: bold;
 		font-style: italic;}
 /* MUSEO SLAB */
 	@font-face {
 		font-family: 'Slab';
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_7_0.eot');
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_7_0.eot') format('embedded-opentype'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_7_0.woff2') format('woff2'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_7_0.woff') format('woff'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_7_0.ttf') format('truetype');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_7_0.eot');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_7_0.eot?#iefix') format('embedded-opentype'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_7_0.woff2') format('woff2'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_7_0.woff') format('woff'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_7_0.ttf') format('truetype');
 		font-weight: 100;}
 	@font-face {
 		font-family: 'Slab';
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_9_0.eot');
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_9_0.eot') format('embedded-opentype'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_9_0.woff2') format('woff2'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_9_0.woff') format('woff'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_9_0.ttf') format('truetype');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_9_0.eot');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_9_0.eot?#iefix') format('embedded-opentype'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_9_0.woff2') format('woff2'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_9_0.woff') format('woff'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_9_0.ttf') format('truetype');
 		font-weight: 100;
 		font-style: italic;}
 	@font-face {
 		font-family: 'Slab';
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_8_0.eot');
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_8_0.eot') format('embedded-opentype'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_8_0.woff2') format('woff2'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_8_0.woff') format('woff'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_8_0.ttf') format('truetype');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_8_0.eot');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_8_0.eot?#iefix') format('embedded-opentype'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_8_0.woff2') format('woff2'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_8_0.woff') format('woff'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_8_0.ttf') format('truetype');
 		font-weight:normal;
 		font-style: normal;}
 	@font-face {
 		font-family: 'Slab';
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_B_0.eot');
-		src: url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_B_0.eot') format('embedded-opentype'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_B_0.woff2') format('woff2'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_B_0.woff') format('woff'),
-			 url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/3274BF_B_0.ttf') format('truetype');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_B_0.eot');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_B_0.eot?#iefix') format('embedded-opentype'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_B_0.woff2') format('woff2'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_B_0.woff') format('woff'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_B_0.ttf') format('truetype');
 		font-weight:normal;
 		font-style:italic;}
 	@font-face {
 		font-family: 'Slab';
-		src: url('first/wp-content/themes/wnc/lib/fonts/3274BF_6_0.eot');
-		src: url('first/wp-content/themes/wnc/lib/fonts/3274BF_6_0.eot') format('embedded-opentype'),
-			 url('first/wp-content/themes/wnc/lib/fonts/3274BF_6_0.woff2') format('woff2'),
-			 url('first/wp-content/themes/wnc/lib/fonts/3274BF_6_0.woff') format('woff'),
-			 url('first/wp-content/themes/wnc/lib/fonts/3274BF_6_0.ttf') format('truetype');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_6_0.eot');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_6_0.eot?#iefix') format('embedded-opentype'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_6_0.woff2') format('woff2'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_6_0.woff') format('woff'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_6_0.ttf') format('truetype');
 		font-weight:bold;}
 	@font-face {
 		font-family: 'Slab';
-		src: url('first/wp-content/themes/wnc/lib/fonts/3274BF_A_0.eot');
-		src: url('first/wp-content/themes/wnc/lib/fonts/3274BF_A_0.eot') format('embedded-opentype'),
-			 url('first/wp-content/themes/wnc/lib/fonts/3274BF_A_0.woff2') format('woff2'),
-			 url('first/wp-content/themes/wnc/lib/fonts/3274BF_A_0.woff') format('woff'),
-			 url('first/wp-content/themes/wnc/lib/fonts/3274BF_A_0.ttf') format('truetype');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_A_0.eot');
+		src: url('/wp-content/themes/wnc/lib/fonts/3274BF_A_0.eot?#iefix') format('embedded-opentype'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_A_0.woff2') format('woff2'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_A_0.woff') format('woff'),
+			 url('/wp-content/themes/wnc/lib/fonts/3274BF_A_0.ttf') format('truetype');
 		font-weight:bold;
 		font-style:italic;}
 /* ICON FONT */
 	@font-face {
 		font-family: 'icomoon';
-		src:  url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/icomoon.eot?9t4cgp');
-		src:  url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/icomoon.eot') format('embedded-opentype'),
-		url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/icomoon.ttf?9t4cgp') format('truetype'),
-		url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/icomoon.woff?9t4cgp') format('woff'),
-		url('https://salazckin.github.io/first/wp-content/themes/wnc/lib/fonts/icomoon.svg?9t4cgp#icomoon') format('svg');
+		src:  url('/wp-content/themes/wnc/lib/fonts/icomoon.eot?9t4cgp');
+		src:  url('/wp-content/themes/wnc/lib/fonts/icomoon.eot?9t4cgp#iefix') format('embedded-opentype'),
+		url('/wp-content/themes/wnc/lib/fonts/icomoon.ttf?9t4cgp') format('truetype'),
+		url('/wp-content/themes/wnc/lib/fonts/icomoon.woff?9t4cgp') format('woff'),
+		url('/wp-content/themes/wnc/lib/fonts/icomoon.svg?9t4cgp#icomoon') format('svg');
 		font-weight: normal;
 		font-style: normal;}
 
